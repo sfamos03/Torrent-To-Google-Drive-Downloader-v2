@@ -1,14 +1,14 @@
 ## This notebook is NOT completely useless
 ~After releasing notebook, I just realized this notebook is completely useless because you know we can select which files to download so I don't have to download the whole thing also these days most of the torrent clients have media players so this program is completely useless but I'm going to keep it on my Github because the source code is might be useful for somebody.~
 
-Best way to do cloud torrenting.
+**Best way to do cloud torrenting.**
 
 # Torrent To Google Drive Downloader
 Simple notebook to stream torrent files to Google Drive using Google Colab.
 
 <a href="https://colab.research.google.com/github/spireon-ex10/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader_v2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-After download finishes the downloaded files will be in there in your drive in a folder named "Torrent".
+After download finishes the downloaded files will be in there in your drive in a folder named "***Torrent***".
 
 ### Tutorial
 Click the badge which says 'Open in Colab' and follow directions there.
