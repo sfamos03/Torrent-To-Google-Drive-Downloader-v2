@@ -20,3 +20,8 @@ After download finishes the downloaded files will be in there in your drive in a
 1. Because of Google Servers speed, I downloaded 35GB of file and the average speed was 60MBPS.
 2. Because it is in the cloud, by that I mean I can access it anywhere on my phone, tablet or etc without copying file to all of them.
 3. You can bypass any restrictions on torrenting set by your ISP and access your files through drive (neat isn't it!).
+
+
+![Getting Torrent Link](https://github.com/spireon-ex10/Torrent-To-Google-Drive-Downloader-v2/raw/master/Image/01.jpg)
+
+![Pasting Torrent Link](https://github.com/spireon-ex10/Torrent-To-Google-Drive-Downloader-v2/raw/master/Image/02.jpg)
