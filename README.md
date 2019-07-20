@@ -9,7 +9,10 @@ Simple notebook to stream torrent files to Google Drive using Google Colab.
 <a href="https://colab.research.google.com/github/spireon-ex10/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader_v2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Tutorial
-Click the badge which says 'Open in Colab', run the whole notebook and follow directions there.
+1. Click the badge which says 'Open in Colab'.
+2. Goto **File > Save a copy in Drive...** (a new tab opens with the copy of this notebook).
+3. Run the whole notebook (**Runtime > Run all**).
+4. Follow directions there.
 
 After download finishes the downloaded files will be in there in your drive in a folder named "***Torrent***".
 
